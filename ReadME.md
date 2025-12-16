@@ -1,4 +1,4 @@
-# Docker
+# Service Orchestration - Docker
 
 - Docker is an OS-level virtualization or containerization platform, which allows application to share the host OS kernel instead of running a separate guest OS like traditional virtualization.
 - This is a way of packaging a software so that it can run on any hardware
